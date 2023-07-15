@@ -1,0 +1,400 @@
+"0704.0951","Jos\'e Abel Hoyos Neto","J. A. Hoyos, Andr\'e P. Vieira, Nicolas Laflorencie, E. Miranda","Correlation amplitude and entanglement entropy in random spin chains","v1: 16 pages, 15 figures; v2: 17 pages, improved discussions and
+  statistics, references added, published version","Phys. Rev. B 76, 174425 (2007)","10.1103/PhysRevB.76.174425",,"cond-mat.dis-nn cond-mat.str-el quant-ph",,"  Using strong-disorder renormalization group, numerical exact diagonalization,
+and quantum Monte Carlo methods, we revisit the random antiferromagnetic XXZ
+spin-1/2 chain focusing on the long-length and ground-state behavior of the
+average time-independent spin-spin correlation function C(l)=\upsilon
+l^{-\eta}. In addition to the well-known universal (disorder-independent)
+power-law exponent \eta=2, we find interesting universal features displayed by
+the prefactor \upsilon=\upsilon_o/3, if l is odd, and \upsilon=\upsilon_e/3,
+otherwise. Although \upsilon_o and \upsilon_e are nonuniversal (disorder
+dependent) and distinct in magnitude, the combination \upsilon_o + \upsilon_e =
+-1/4 is universal if C is computed along the symmetric (longitudinal) axis. The
+origin of the nonuniversalities of the prefactors is discussed in the
+renormalization-group framework where a solvable toy model is considered.
+Moreover, we relate the average correlation function with the average
+entanglement entropy, whose amplitude has been recently shown to be universal.
+The nonuniversalities of the prefactors are shown to contribute only to surface
+terms of the entropy. Finally, we discuss the experimental relevance of our
+results by computing the structure factor whose scaling properties,
+interestingly, depend on the correlation prefactors.
+","[{""version"":""v1"",""created"":""Sun, 8 Apr 2007 00:58:26 GMT""},{""version"":""v2"",""created"":""Thu, 15 Nov 2007 22:09:43 GMT""}]","2007-11-16"
+"0704.0955","Matthias Wapler","Nemani V. Suryanarayana and Matthias C. Wapler","Charges from Attractors","25 pages; references and comments added, typos fixed, minor changes
+  to notation, minor clarifications in the discussions; final version published
+  in CQG","Class.Quant.Grav.24:5047-5072,2007","10.1088/0264-9381/24/20/009",,"hep-th gr-qc",,"  We describe how to recover the quantum numbers of extremal black holes from
+their near horizon geometries. This is achieved by constructing the
+gravitational Noether-Wald charges which can be used for non-extremal black
+holes as well. These charges are shown to be equivalent to the U(1) charges of
+appropriately dimensionally reduced solutions. Explicit derivations are
+provided for 10 dimensional type IIB supergravity and 5 dimensional minimal
+gauged supergravity, with illustrative examples for various black hole
+solutions. We also discuss how to derive the thermodynamic quantities and their
+relations explicitly in the extremal limit, from the point of view of the
+near-horizon geometry. We relate our results to the entropy function formalism.
+","[{""version"":""v1"",""created"":""Sat, 7 Apr 2007 20:03:07 GMT""},{""version"":""v2"",""created"":""Wed, 10 Oct 2007 07:15:00 GMT""}]","2008-11-26"
+"0704.0993","Piotr Bizon","Piotr Bizo\'n, Tadeusz Chmaj, Andrzej Rostworowski","Late-time tails of a Yang-Mills field on Minkowski and Schwarzschild
+  backgrounds","7 pages, 3 figures","Class.Quant.Grav.24:F55-F63,2007","10.1088/0264-9381/24/13/F01",,"gr-qc hep-th math.AP",,"  We study the late-time behavior of spherically symmetric solutions of the
+Yang-Mills equations on Minkowski and Schwarzschild backgrounds. Using
+nonlinear perturbation theory we show in both cases that solutions having
+smooth compactly supported initial data posses tails which decay as $t^{-4}$ at
+timelike infinity. Moreover, for small initial data on Minkowski background we
+derive the third-order formula for the amplitude of the tail and confirm
+numerically its accuracy.
+","[{""version"":""v1"",""created"":""Sat, 7 Apr 2007 17:33:44 GMT""},{""version"":""v2"",""created"":""Fri, 20 Apr 2007 11:07:20 GMT""}]","2010-11-02"
+"0704.0994","Sergei Ovchinnikov","J.-Cl. Falmagne, S. Ovchinnikov","Mediatic graphs","Four axioms replaced by two; two references added; Fig.6 corrected",,,,"math.CO",,"  Any medium can be represented as an isometric subgraph of the hypercube, with
+each token of the medium represented by a particular equivalence class of arcs
+of the subgraph. Such a representation, although useful, is not especially
+revealing of the structure of a particular medium. We propose an axiomatic
+definition of the concept of a `mediatic graph'. We prove that the graph of any
+medium is a mediatic graph. We also show that, for any non-necessarily finite
+set S, there exists a bijection from the collection M of all the media on a
+given set S (of states) onto the collection G of all the mediatic graphs on S.
+","[{""version"":""v1"",""created"":""Sat, 7 Apr 2007 17:45:12 GMT""},{""version"":""v2"",""created"":""Sun, 22 Jul 2007 09:37:30 GMT""},{""version"":""v3"",""created"":""Tue, 14 Aug 2007 05:12:45 GMT""}]","2007-08-14"
+"0704.0995","Satish D. Joglekar","Satish D. Joglekar","Composite Structure and Causality","15 pages, latex; a few errors on page 8 corrected; change in result
+  2. on page 12","Int.J.Theor.Phys.47:2824-2834,2008","10.1007/s10773-008-9715-0",,"hep-ph hep-th",,"  We study the question of whether a composite structure of elementary
+particles, with a length scale $1/\Lambda$, can leave observable effects of
+non-locality and causality violation at higher energies (but $\lesssim
+\Lambda$). We formulate a model-independent approach based on
+Bogoliubov-Shirkov formulation of causality. We analyze the relation between
+the fundamental theory (of finer constituents) and the derived theory (of
+composite particles). We assume that the fundamental theory is causal and
+formulate a condition which must be fulfilled for the derived theory to be
+causal. We analyze the condition and exhibit possibilities which fulfil and
+which violate the condition. We make comments on how causality violating
+amplitudes can arise.
+","[{""version"":""v1"",""created"":""Sat, 7 Apr 2007 17:53:32 GMT""},{""version"":""v2"",""created"":""Mon, 21 May 2007 14:38:30 GMT""}]","2008-11-26"
+"0704.0998","Louise Nyssen","Louise Nyssen (I3M)","Test vectors for trilinear forms, when two representations are
+  unramified and one is special",,,,,"math.NT",,"  Let F be a finite extension of Qp and G be GL(2,F). When V is the tensor
+product of three admissible, irreducible, finite dimensional representations of
+G, the space of G-invariant linear forms has dimension at most one. When a non
+zero linear form exists, one wants to find an element of V which is not in its
+kernel: this is a test vector. Gross and Prasad found explicit test vectors for
+some triple of representations. In this paper, others are found, and they
+almost complete the case when the conductor of each representation is at most
+1.
+","[{""version"":""v1"",""created"":""Sat, 7 Apr 2007 19:42:53 GMT""}]","2007-05-23"
+"0704.0999","George Lusztig","G. Lusztig","Generic character sheaves on disconnected groups and character values","12 pages",,,,"math.RT",,"  We relate a generic character sheaf on a disconnected reductive group with a
+character of a representation of the rational points of the group over a finite
+field extending a result known in the connected case.
+","[{""version"":""v1"",""created"":""Sat, 7 Apr 2007 19:43:39 GMT""}]","2007-05-23"
+"0704.1000","Liming Zhang","L.M. Zhang, et al (for the Belle Collaboration)","Measurement of D0-D0bar mixing in D0->Ks pi+ pi- decays","6 pages, 4 figures, Submitted to Physical Review Letters","Phys.Rev.Lett.99:131803,2007","10.1103/PhysRevLett.99.131803","BELLE-CONF-0702","hep-ex",,"  We report a measurement of D0-D0bar mixing in D0->Ks pi+ pi- decays using a
+time-dependent Dalitz plot analysis. We first assume CP conservation and
+subsequently allow for CP violation. The results are based on 540 fb$^{-1}$ of
+data accumulated with the Belle detector at the KEKB $e^+e^-$ collider.
+Assuming negligible CP violation, we measure the mixing parameters
+$x=(0.80\pm0.29^{+0.09 +0.10}_{-0.07 -0.14})%$ and $y=(0.33\pm0.24^{+0.08
++0.06}_{-0.12 -0.08})%$, where the errors are statistical, experimental
+systematic, and systematic due to the Dalitz decay model, respectively.
+Allowing for CP violation, we obtain the $CPV$ parameters $|q/p|=0.86^{+0.30
++0.06}_{-0.29 -0.03}\pm0.08$ and $\arg(q/p)=(-14^{+16 +5 +2}_{-18 -3
+-4})^\circ$.
+","[{""version"":""v1"",""created"":""Sat, 7 Apr 2007 20:23:54 GMT""},{""version"":""v2"",""created"":""Thu, 21 Jun 2007 14:27:55 GMT""}]","2019-08-12"
+"0704.1001","Sergey Shadrin","A. Losev, S. Shadrin, I. Shneiberg","Tautological relations in Hodge field theory","35 pages","Nucl. Phys. B 786 (2007), no. 3, 267--296","10.1016/j.nuclphysb.2007.07.003",,"math.QA math.AG",,"  We propose a Hodge field theory construction that captures algebraic
+properties of the reduction of Zwiebach invariants to Gromov-Witten invariants.
+It generalizes the Barannikov-Kontsevich construction to the case of higher
+genera correlators with gravitational descendants.
+  We prove the main theorem stating that algebraically defined Hodge field
+theory correlators satisfy all tautological relations. From this perspective
+the statement that Barannikov-Kontsevich construction provides a solution of
+the WDVV equation looks as the simplest particular case of our theorem. Also it
+generalizes the particular cases of other low-genera tautological relations
+proven in our earlier works; we replace the old technical proofs by a novel
+conceptual proof.
+","[{""version"":""v1"",""created"":""Sat, 7 Apr 2007 20:51:13 GMT""}]","2010-10-04"
+"0704.1002","Michele Cantiello","M. Cantiello (WSU, and INAF OA-Teramo), G. Raimondo (INAF-OA Termo),
+  J.P. Blakeslee (WSU), E. Brocato (INAF-OA Teramo), M. Capaccioli (Universita'
+  degli Studi di Napoli)","SBF: multi-wavelength data and models","Presented at From Stars to Galaxies: Building the Pieces to Build up
+  the Universe (StarGal 2006), Venice, Italy, 16-20 Oct 2006",,,,"astro-ph",,"  Recent applications have proved that the Surface Brightness Fluctuations
+(SBF) technique is a reliable distance indicator in a wide range of distances,
+and a promising tool to analyze the physical and chemical properties of
+unresolved stellar systems, in terms of their metallicity and age. We present
+the preliminary results of a project aimed at studying the evolutionary
+properties and distance of the stellar populations in external galaxies based
+on the SBF method.
+  On the observational side, we have succeeded in detecting I-band SBF
+gradients in six bright ellipticals imaged with the ACS, for these same objects
+we are now presenting also B-band SBF data. These B-band data are the first
+fluctuations magnitude measurements for galaxies beyond 10 Mpc.
+  To analyze the properties of stellar populations from the data, accurate SBF
+models are essential. As a part of this project, we have evaluated SBF
+magnitudes from Simple Stellar Population (SSP) models specifically optimized
+for the purpose. A wide range of chemical compositions and ages, as well as
+different choices of the photometric system have been investigated. All models
+are available at the Teramo-Stellar Populations Tools web site:
+www.oa-teramo.inaf.it/SPoT.
+","[{""version"":""v1"",""created"":""Sat, 7 Apr 2007 20:45:59 GMT""}]","2007-05-23"
+"0704.1003","Amit Acharya","Amit Acharya","On the choice of coarse variables for dynamics","To appear in International Journal for Multiscale Computational
+  Engineering",,,,"nlin.CD math.DS",,"  Two ideas for the choice of an adequate set of coarse variables allowing
+approximate autonomous dynamics for practical applications are presented. The
+coarse variables are meant to represent averaged behavior of a fine-scale
+autonomous dynamics.
+","[{""version"":""v1"",""created"":""Sat, 7 Apr 2007 21:43:03 GMT""},{""version"":""v2"",""created"":""Mon, 9 Apr 2007 22:42:48 GMT""}]","2007-05-23"
+"0704.1004","Michele Cantiello","M. Cantiello (WSU, and INAF OA-Teramo), G. Raimondo (INAF-OA Termo),
+  E. Brocato (INAF-OA Teramo), J.P. Blakeslee (WSU), M. Capaccioli (Universita'
+  degli Studi di Napoli)","Simulating CCD images of elliptical galaxies","Presented at From Stars to Galaxies: Building the Pieces to Build up
+  the Universe (StarGal 2006), Venice, Italy, 16-20 Oct 2006",,,,"astro-ph",,"  We introduce a procedure developed by the ``Teramo Stellar Populations
+Tools'' group (Teramo-SPoT), specifically optimized to obtain realistic
+simulations of CCD images of elliptical galaxies.
+  Particular attention is devoted to include the Surface Brightness Fluctuation
+(SBF) signal observed in ellipticals and to simulate the Globular Cluster (GC)
+system in the galaxy, and the distribution of background galaxies present in
+real CCD frames. In addition to the physical properties of the simulated
+objects - galaxy distance and brightness profile, luminosity function of GC and
+background galaxies, etc. - the tool presented allows the user to set some of
+the main instrumental properties - FoV, zero point magnitude, exposure time,
+etc.
+","[{""version"":""v1"",""created"":""Sat, 7 Apr 2007 21:46:32 GMT""}]","2007-05-23"
+"0704.1005","Ben Weinkove","Jian Song and Ben Weinkove","Constructions of Kahler-Einstein metrics with negative scalar curvature","22 pages","Math. Ann. 347 (2010), no. 1, 59-79",,,"math.DG",,"  We show that on Kahler manifolds with negative first Chern class, the
+sequence of algebraic metrics introduced by H. Tsuji converges uniformly to the
+Kahler-Einstein metric. For algebraic surfaces of general type and orbifolds
+with isolated singularities, we prove a convergence result for a modified
+version of Tsuji's iterative construction.
+","[{""version"":""v1"",""created"":""Sat, 7 Apr 2007 21:51:43 GMT""}]","2018-12-14"
+"0704.1006","Andr\'es Navas","Victor Kleptsyn, Andres Navas","A Denjoy Theorem for commuting circle diffeomorphisms with mixed Holder
+  derivatives","14 pages, 4 figures",,,,"math.DS",,"  We prove that if d is an integer number bigger than 1 and f_1,...,f_d are
+commuting circle diffeomorphisms respectively of class C^(1+\tau_k), where
+\tau_1 + ... + \tau_k > 1, then these maps are simultaneously conjugate to
+rotations provided that their rotation numbers are independent over the
+rationals.
+","[{""version"":""v1"",""created"":""Sun, 8 Apr 2007 00:11:32 GMT""}]","2007-05-23"
+"0704.1007","Yong Chen","Pan Zhang and Yong Chen","Transient Dynamics of Sparsely Connected Hopfield Neural Networks with
+  Arbitrary Degree Distributions","11 pages, 5 figures. Any comments are favored","Physica A 387, 1009(2008)","10.1016/j.physa.2007.09.047",,"cond-mat.dis-nn cond-mat.stat-mech",,"  Using probabilistic approach, the transient dynamics of sparsely connected
+Hopfield neural networks is studied for arbitrary degree distributions. A
+recursive scheme is developed to determine the time evolution of overlap
+parameters. As illustrative examples, the explicit calculations of dynamics for
+networks with binomial, power-law, and uniform degree distribution are
+performed. The results are good agreement with the extensive numerical
+simulations. It indicates that with the same average degree, there is a gradual
+improvement of network performance with increasing sharpness of its degree
+distribution, and the most efficient degree distribution for global storage of
+patterns is the delta function.
+","[{""version"":""v1"",""created"":""Sun, 8 Apr 2007 02:10:58 GMT""},{""version"":""v2"",""created"":""Fri, 7 Dec 2007 07:14:19 GMT""}]","2011-11-09"
+"0704.1008","Behrang Noohi","Behrang Noohi","Explicit HRS-Tilting","31 pages, introduction expanded, minor errors corrected",,,,"math.RT math.KT","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  For an abelian category $A$ equipped with a torsion pair, we give an explicit
+description for the abelian category $B$ introduced by Happel-Reiten-Smalo, and
+also for the category of chain complexes $Ch(B)$ and the derived category
+$D(B)$ of $B$. We also describe the DG structure on $Ch(B)$. As a consequence,
+we find new proofs of certain results of Happel-Reiten-Smalo. The main
+ingredient is the category of {\em decorated} complexes.
+","[{""version"":""v1"",""created"":""Sun, 8 Apr 2007 02:43:25 GMT""},{""version"":""v2"",""created"":""Wed, 27 Aug 2008 23:35:15 GMT""}]","2008-08-28"
+"0704.1009","Behrang Noohi","Behrang Noohi","Lectures on derived and triangulated categories","Lecture notes. To appear in the proceedings volume of the
+  ""International Workshop on Noncommutative Geometry"", IPM, Tehran 2005",,,,"math.KT math.AG",,"  These notes are meant to provide a rapid introduction to triangulated
+categories. We start with the definition of an additive category and end with a
+glimps of tilting theory. Some exercises are included.
+","[{""version"":""v1"",""created"":""Sun, 8 Apr 2007 03:09:08 GMT""}]","2007-05-23"
+"0704.1010","Behrang Noohi","Behrang Noohi","Group actions on algebraic stacks via butterflies","Revised version of the preprint previously titled ""Automorphism
+  2-group of a weighted projective stack""",,,,"math.AG math.QA","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  We introduce an explicit method for studying actions of a group stack G on an
+algebraic stack X. As an example, we study in detail the case where
+X=P(n_0,...,n_r) is a weighted projective stack over an arbitrary base S. To
+this end, we give an explicit description of the group stack of automorphisms
+of, the weighted projective general linear 2-group PGL(n_0,...,n_r). As an
+application, we use a result of Colliot-Thelene to show that for every linear
+algebraic group G over an arbitrary base field k (assumed to be reductive if
+char(k)>0) such that Pic}(G)=0, every action of G on P(n_0,...,n_r) lifts to a
+linear action of G on A^{r+1}.
+","[{""version"":""v1"",""created"":""Sun, 8 Apr 2007 03:26:16 GMT""},{""version"":""v2"",""created"":""Wed, 4 Sep 2013 21:12:15 GMT""}]","2013-09-06"
+"0704.1011","Kapil Krishan","Kapilanjan Krishan, Andreas Handel, Roman O. Grigoriev, Michael F.
+  Schatz","Modal Extraction in Spatially Extended Systems","5 pages, 6 figure",,,,"physics.flu-dyn",,"  We describe a practical procedure for extracting the spatial structure and
+the growth rates of slow eigenmodes of a spatially extended system, using a
+unique experimental capability both to impose and to perturb desired initial
+states. The procedure is used to construct experimentally the spectrum of
+linear modes near the secondary instability boundary in Rayleigh-B\'{e}nard
+convection. This technique suggests an approach to experimental
+characterization of more complex dynamical states such as periodic orbits or
+spatiotemporal chaos.
+","[{""version"":""v1"",""created"":""Sun, 8 Apr 2007 03:42:53 GMT""}]","2007-05-23"
+"0704.1013","Yujiro Kawamata","Yujiro Kawamata","Flops connect minimal models","5 pages",,,,"math.AG",,"  A remark on a paper by Birkar-Cascini-Hacon-McKernan.
+","[{""version"":""v1"",""created"":""Sun, 8 Apr 2007 04:02:07 GMT""}]","2007-05-23"
+"0704.1014","Yujiro Kawamata","Yujiro Kawamata","A product formula for volumes of varieties","2 pages",,,,"math.AG",,"  A simple application of the semipositivity.
+","[{""version"":""v1"",""created"":""Sun, 8 Apr 2007 04:07:03 GMT""}]","2007-05-23"
+"0704.1015","Noriaki Ikeda","Noriaki Ikeda and Tatsuya Tokunaga","An Alternative Topological Field Theory of Generalized Complex Geometry","29 pages, typos and references corrected","JHEP0709:009,2007","10.1088/1126-6708/2007/09/009",,"hep-th math.DG",,"  We propose a new topological field theory on generalized complex geometry in
+two dimension using AKSZ formulation. Zucchini's model is $A$ model in the case
+that the generalized complex structuredepends on only a symplectic structure.
+Our new model is $B$ model in the case that the generalized complex structure
+depends on only a complex structure.
+","[{""version"":""v1"",""created"":""Sun, 8 Apr 2007 06:09:52 GMT""},{""version"":""v2"",""created"":""Tue, 19 Jun 2007 09:56:37 GMT""},{""version"":""v3"",""created"":""Sun, 26 Aug 2007 15:17:09 GMT""}]","2008-11-26"
+"0704.1016","Tao Zhou","T. Zhou, Z. D. Wang","Phenomenological theory of spin excitations in La- and Y-based cuprates","8 pages, 8 figures",,"10.1103/PhysRevB.76.094510",,"cond-mat.supr-con cond-mat.str-el",,"  Motivated by recent inelastic neutron scattering (INS) experiments on
+La-based cuprates and based on the fermiology theories, we study the spin
+susceptibility for La-based (e.g., La$_{2-x}$Sr$_x$CuO$_4$) and Y-based (e.g.,
+YBa$_2$Cu$_3$O$_y$) cuprates, respectively. The spin excitation in
+YBa$_2$Cu$_3$O$_y$ is dominated by a sharp resonance peak at the frequency 40
+meV in the superconducting state. Below and above the resonance frequency, the
+incommensurate (IC) peaks develop and the intensity of the peaks decreases
+dramatically. In the normal state, the resonant excitation does not occur and
+the IC peaks are merged into commensurate ones. The spin excitation of
+La$_{2-x}$Sr$_x$CuO$_4$ is significantly different from that of Y-based ones,
+namely, the resonance peak does not exist due to the decreasing of the
+superconducting gap and the presence of the possible spin-stripe order. The
+spectra are only enhanced at the expected resonance frequency (about 18 meV)
+while it is still incommensurate. On the other hand, another frequency scale at
+the frequency 55 meV is also revealed, namely the spectra are commensurate and
+local maximum at this frequency. We elaborate all the results based on the
+Fermi surface topology and the d-wave superconductivity, and suggest that the
+spin-stripe order be also important in determining the spin excitation of
+La-based cuprates. A coherent picture for the spin excitations is presented for
+Y-based and La-based cuprates.
+","[{""version"":""v1"",""created"":""Sun, 8 Apr 2007 06:27:56 GMT""}]","2009-11-13"
+"0704.1017","Gregoire Misguich","Gregoire Misguich and Philippe Sindzingre","Magnetic susceptibility and specific heat of the spin-1/2 Heisenberg
+  model on the kagome lattice and experimental data on ZnCu3(OH)6Cl2","Minor revisions in the text and references. To appear in Eur. Phys.
+  J. B","Eur. Phys. J. B 59, 305 (2007)","10.1140/epjb/e2007-00301-6",,"cond-mat.str-el cond-mat.stat-mech",,"  We compute the magnetic susceptibility and specific heat of the spin-1/2
+Heisenberg model on the kagome lattice with high-temperature expansions and
+exact diagonalizations. We compare the results with the experimental data on
+ZnCu3(OH)6Cl2 obtained by Helton et al. [Phys. Rev. Lett. 98, 107204 (2007)].
+Down to k_BT/J~0.2, our calculations reproduce accurately the experimental
+susceptibility, with an exchange interaction J~190K and a contribution of 3.7%
+of weakly interacting impurity spins. The comparison between our calculations
+of the specific heat and the experiments indicate that the low-temperature
+entropy (below ~20K) is smaller in ZnCu3(OH)6Cl2 than in the kagome Heisenberg
+model, a likely signature of other interactions in the system.
+","[{""version"":""v1"",""created"":""Sun, 8 Apr 2007 07:36:14 GMT""},{""version"":""v2"",""created"":""Fri, 26 Oct 2007 09:52:27 GMT""}]","2011-11-09"
+"0704.1018","Yutaka Ohno","Yutaka Ohno, Shinya Iwasaki, Yoichi Murakami, Shigeru Kishimoto,
+  Shigeo Maruyama, and Takashi Mizutani","Environmental dielectric screening effect on exciton transition energies
+  in single-walled carbon nanotubes",,,,,"cond-mat.mtrl-sci cond-mat.other",,"  Environmental dielectric screening effects on exciton transition energies in
+single-walled carbon nanotubes (SWNTs) have been studied quantitatively in the
+range of dielectric constants from 1.0 to 37 by immersing SWNTs bridged over
+trenches in various organic solvents by means of photoluminescence and the
+excitation spectroscopies. With increasing environmental dielectric constant
+($\epsilon_{\rm env}$), both $E_{11}$ and $E_{22}$ exhibited a redshift by
+several tens meV and a tendency to saturate at a $\epsilon_{\rm env} \sim 5$
+without an indication of significant ($n$,$m$) dependence. The redshifts can be
+explained by dielectric screening of the repulsive electron-electron
+interaction. The $\epsilon_{\rm env}$ dependence of $E_{11}$ and $E_{22}$ can
+be expressed by a simple empirical equation with a power law in $\epsilon_{\rm
+env}$, $E_{\rm ii} = E_{\rm ii}^{\infty} + A\epsilon_{\rm env}^{-\alpha}$. We
+also immersed a sample in sodium-dodecyl-sulfate (SDS) solution to investigate
+the effects of wrapping SWNTs with surfactant. The resultant $E_{11}$ and
+$E_{22}$, which agree well with Weisman's data [Nano Lett. {\bf 3}, 1235
+(2003)], are close to those of $\epsilon_{\rm env}$ of 2. However, in addition
+to the shift due to dielectric screening, another shift was observed so that
+the ($2n+m$)-family patterns spread more widely, similar to that of the
+uniaxial-stress-induced shift.
+","[{""version"":""v1"",""created"":""Sun, 8 Apr 2007 14:33:36 GMT""}]","2007-05-23"
+"0704.1019","Zinaida Lykova A.","Zinaida A. Lykova (Newcastle University, England)","Cyclic cohomology of certain nuclear Fr\'echet and DF algebras","Propositions 4.2 and 4.3 have been added and some minor mistakes have
+  been corrected. 19 pages",,,,"math.KT math.FA",,"  We give explicit formulae for the continuous Hochschild and cyclic homology
+and cohomology of certain topological algebras. To this end we show that, for a
+continuous morphism $\phi: \X\to \Y$ of complexes of complete nuclear
+$DF$-spaces, the isomorphism of cohomology groups $H^n(\phi): H^n(\X) \to
+H^n(\Y)$ is automatically topological. The continuous cyclic-type homology and
+cohomology are described up to topological isomorphism for the following
+classes of biprojective $\hat{\otimes}$-algebras: the tensor algebra $E
+\hat{\otimes} F$ generated by the duality $(E, F, < \cdot, \cdot >)$ for
+nuclear Fr\'echet spaces $E$ and $F$ or for nuclear $DF$-spaces $E$ and $F$;
+nuclear biprojective K\""{o}the algebras $\lambda(P)$ which are Fr\'echet spaces
+or $DF$-spaces; the algebra of distributions $\mathcal{E}^*(G)$ on a compact
+Lie group $G$.
+","[{""version"":""v1"",""created"":""Sun, 8 Apr 2007 09:24:40 GMT""},{""version"":""v2"",""created"":""Wed, 12 Sep 2007 09:15:20 GMT""}]","2007-09-12"
+"0704.1020","Gyorgy Ottucsak","Andras Gyorgy, Tamas Linder, Gabor Lugosi, Gyorgy Ottucsak","The on-line shortest path problem under partial monitoring","35 pages",,,,"cs.LG cs.SC",,"  The on-line shortest path problem is considered under various models of
+partial monitoring. Given a weighted directed acyclic graph whose edge weights
+can change in an arbitrary (adversarial) way, a decision maker has to choose in
+each round of a game a path between two distinguished vertices such that the
+loss of the chosen path (defined as the sum of the weights of its composing
+edges) be as small as possible. In a setting generalizing the multi-armed
+bandit problem, after choosing a path, the decision maker learns only the
+weights of those edges that belong to the chosen path. For this problem, an
+algorithm is given whose average cumulative loss in n rounds exceeds that of
+the best path, matched off-line to the entire sequence of the edge weights, by
+a quantity that is proportional to 1/\sqrt{n} and depends only polynomially on
+the number of edges of the graph. The algorithm can be implemented with linear
+complexity in the number of rounds n and in the number of edges. An extension
+to the so-called label efficient setting is also given, in which the decision
+maker is informed about the weights of the edges corresponding to the chosen
+path at a total of m << n time instances. Another extension is shown where the
+decision maker competes against a time-varying path, a generalization of the
+problem of tracking the best expert. A version of the multi-armed bandit
+setting for shortest path is also discussed where the decision maker learns
+only the total weight of the chosen path but not the weights of the individual
+edges on the path. Applications to routing in packet switched networks along
+with simulation results are also presented.
+","[{""version"":""v1"",""created"":""Sun, 8 Apr 2007 10:15:54 GMT""}]","2007-05-23"
+"0704.1023","Pouria Pedram","G. R. Jafari, A. A. Saberi, R. Azimirad, A. Z. Moshfegh, and S.
+  Rouhani","The Effect of Annealing Temperature on Statistical Properties of $WO_3$
+  Surface","8 pages, 6 figures;","J. Stat. Mech. (2006) P09017",,,"physics.data-an",,"  We have studied the effect of annealing temperature on the statistical
+properties of $WO_3$ surface using atomic force microscopy techniques (AFM). We
+have applied both level crossing and structure function methods. Level crossing
+analysis indicates an optimum annealing temperature of around 400$^oC$ at which
+the effective area of the $WO_3$ thin film is maximum, whereas composition of
+the surface remains stoichiometric. The complexity of the height fluctuation of
+surfaces was characterized by roughness, roughness exponent and lateral size of
+surface features. We have found that there is a phase transition at around
+400$^oC$ from one set to two sets of roughness parameters. This happens due to
+microstructural changes from amorphous to crystalline structure in the samples
+that has been already found experimentally.
+","[{""version"":""v1"",""created"":""Sun, 8 Apr 2007 12:08:55 GMT""}]","2007-05-23"
+"0704.1024","Vladimir Babenko","V. A. Babenko and N. M. Petrov","Determination of Low-Energy Parameters of Neutron--Proton Scattering on
+  the Basis of Modern Experimental Data from Partial-Wave Analyses","17 pages, to be published in Physics of Atomic Nuclei","Phys.Atom.Nucl.70:669-675,2007","10.1134/S1063778807040072",,"nucl-th",,"  The triplet and singlet low-energy parameters in the effective-range
+expansion for neutron--proton scattering are determined by using the latest
+experimental data on respective phase shifts from the SAID nucleon--nucleon
+database. The results differ markedly from the analogous parameters obtained on
+the basis of the phase shifts of the Nijmegen group and contradict the
+parameter values that are presently used as experimental ones. The values found
+with the aid of the phase shifts from the SAID nucleon--nucleon database for
+the total cross section for the scattering of zero-energy neutrons by protons,
+$\sigma_{0}=20.426 $b, and the neutron--proton coherent scattering length,
+$f=-3.755 $fm, agree perfectly with the experimental cross-section values
+obtained by Houk, $\sigma_{0}=20.436\pm 0.023 $b, and experimental
+scattering-length values obtained by Houk and Wilson, $f=-3.756\pm 0.009 $fm,
+but they contradict cross-section values of $\sigma_{0}=20.491\pm 0.014 $b
+according to Dilg and coherent-scattering-length values of $f=-3.7409\pm 0.0011
+$fm according to Koester and Nistler.
+","[{""version"":""v1"",""created"":""Sun, 8 Apr 2007 12:35:18 GMT""}]","2008-11-26"
+"0704.1025","Terry Sloan","S.Bevan, S.Danaher, J.Perkin, S.Ralph, C.Rhodes, L.Thompson, T.Sloan
+  and D.Waters","Simulation of Ultra High Energy Neutrino Interactions in Ice and Water",,"Astropart.Phys.28:366-379,2007","10.1016/j.astropartphys.2007.08.001",,"astro-ph",,"  The CORSIKA program, usually used to simulate extensive cosmic ray air
+showers, has been adapted to work in a water or ice medium. The adapted CORSIKA
+code was used to simulate hadronic showers produced by neutrino interactions.
+The simulated showers have been used to study the spatial distribution of the
+deposited energy in the showers. This allows a more precise determination of
+the acoustic signals produced by ultra high energy neutrinos than has been
+possible previously. The properties of the acoustic signals generated by such
+showers are described.
+","[{""version"":""v1"",""created"":""Sun, 8 Apr 2007 12:59:08 GMT""}]","2009-06-23"
+"0704.1027","Zhenjun Xiao","Xin Liu, Zhen-Jun Xiao, Hui-Sheng Wang","$B_s^0 \to \eta^{(\prime)} \eta^{(\prime)}$ decays in the pQCD approach","11 pages, 1 ps figure, Revtex","Commun.Theor.Phys.49:981-986,2008","10.1088/0253-6102/49/4/36","Zjou-PHY-TH-07-01, NJNU-TH-07-05","hep-ph",,"  We calculate the CP averaged branching ratios and CP-violating asymmetries
+for $B_s^0 \to \eta \eta, \eta \eta^\prime$ and $\eta^\prime \eta^\prime$
+decays in the perturbative QCD (pQCD) approach here. The pQCD predictions for
+the CP-averaged branching ratios are $Br(B_s^0 \to \eta \eta) = \left
+(14.2^{+18.0}_{-7.5}) \times 10^{-6}$, $Br(B_s^0 \to \eta \eta^\prime)= \left
+(12.4 ^{+18.2}_{-7.0}) \times 10^{-6}$, and $Br(B_s^0 \to \eta^{\prime}
+\eta^{\prime}) = \left (9.2^{+15.3}_{-4.9}) \times 10^{-6}$, which agree well
+with those obtained by employing the QCD factorization approach and also be
+consistent with available experimental upper limits. The gluonic contributions
+are small in size: less than 7% for $B_s \to \eta \eta$ and $ \eta \eta^\prime$
+decays, and around 18% for $B_s \to \eta' \eta'$ decay. The CP-violating
+asymmetries for three decays are very small: less than 3% in magnitude.
+","[{""version"":""v1"",""created"":""Sun, 8 Apr 2007 13:30:04 GMT""}]","2008-11-26"
+"0704.1029","Pouria Pedram","P. Sangpour, G. R. Jafari, O. Akhavan, A.Z. Moshfegh, and M. Reza
+  Rahimi Tabar","Controlling surface statistical properties using bias voltage: Atomic
+  force microscopy and stochastic analysis","8 pages, 11 figures;","PHYSICAL REVIEW B 71, 155423 (2005)","10.1103/PhysRevB.71.155423",,"physics.data-an",,"  The effect of bias voltages on the statistical properties of rough surfaces
+has been studied using atomic force microscopy technique and its stochastic
+analysis. We have characterized the complexity of the height fluctuation of a
+rough surface by the stochastic parameters such as roughness exponent, level
+crossing, and drift and diffusion coefficients as a function of the applied
+bias voltage. It is shown that these statistical as well as microstructural
+parameters can also explain the macroscopic property of a surface. Furthermore,
+the tip convolution effect on the stochastic parameters has been examined.
+","[{""version"":""v1"",""created"":""Sun, 8 Apr 2007 14:45:20 GMT""}]","2015-05-13"
+"0704.1030","Pouria Pedram","G.R. Jafari, M. Reza Rahimi Tabar, A. Iraji zad, G. Kavei","Etched Glass Surfaces, Atomic Force Microscopy and Stochastic Analysis","5 pages, 6 figures;","Physica A 375 (2007) 239","10.1016/j.physa.2006.09.012",,"physics.data-an",,"  The effect of etching time scale of glass surface on its statistical
+properties has been studied using atomic force microscopy technique. We have
+characterized the complexity of the height fluctuation of a etched surface by
+the stochastic parameters such as intermittency exponents, roughness, roughness
+exponents, drift and diffusion coefficients and find their variations in terms
+of the etching time.
+","[{""version"":""v1"",""created"":""Sun, 8 Apr 2007 14:20:26 GMT""}]","2015-05-13"
+"0704.1031","Hiromi Okada Dr.","H. Okada, I. Alekseev, A. Bravar, G. Bunce, S. Dhawan, K.O. Eyser, R.
+  Gill, W. Haeberli, H. Huang, O. Jinnouchi, Y. Makdishi, I. Nakagawa, A. Nass,
+  N. Saito, E. Stephenson, D. Sviridia, T. Wise, J. Wood, A. Zelenski","Measurements of Single and Double Spin Asymmetry in \textit{pp} Elastic
+  Scattering in the CNI Region with Polarized Hydrogen Gas Jet Target","4 pages","AIP Conf.Proc.915:681-684,2007","10.1063/1.2750871",,"hep-ex",,"  Precise measurements of the single spin asymmetry, $A_N$ and the double spin
+asymmetry, $A_{NN}$, in proton-proton (\textit{pp}) elastic scattering in the
+region of four-momentum transfer squared $0.001 < -t < 0.032 ({\rm GeV}/c)^2$
+have been performed using a polarized atomic hydrogen gas jet target and the
+RHIC polarized proton beam at 24 GeV/$c$ and 100 GeV/$c$. The polarized gaseous
+proton target allowed us to achieve the measurement of $A_{NN}$ in the CNI
+region for the first time. Our results of $A_N$ and $A_{NN}$ provide
+significant constraints to determine the magnitude of poorly known hadronic
+single and double spin-flip amplitudes at this energy.
+","[{""version"":""v1"",""created"":""Sun, 8 Apr 2007 15:09:49 GMT""}]","2010-12-13"
+"0704.1032","Yaacov Kopeliovich","Yaacov Kopeliovich","Theta constants identities for Jacobians of cyclic 3-sheeted covers of
+  the sphere and representations of the symmetric group","7 pages",,,,"math.CV",,"  We find identities between theta constants with rational characteristics
+evaluated at period matrix of $R,$ a cyclic 3 sheeted cover of the sphere with
+$3k$ branch points $\lambda_1...\lambda_{3k}.$ These identities follow from
+Thomae formula \cite{BR}. This formula expresses powers of theta constants as
+polynomials in $\lambda_1...\lambda_{3k}.$ We apply the representation of the
+symmetric group to find relations between the polynomials and hence between the
+associated theta constants.
+","[{""version"":""v1"",""created"":""Sun, 8 Apr 2007 15:27:59 GMT""}]","2007-05-23"

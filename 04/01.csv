@@ -1,0 +1,655 @@
+"0704.0014","Koichi Fujii","Koichi Fujii","Iterated integral and the loop product","18 pages, 1 figure",,,,"math.CA math.AT",,"  In this article we discuss a relation between the string topology and
+differential forms based on the theory of Chen's iterated integrals and the
+cyclic bar complex.
+","[{""version"":""v1"",""created"":""Sun, 1 Apr 2007 12:04:13 GMT""}]","2009-09-29"
+"0704.0037","Maxim A. Yurkin","Maxim A. Yurkin, Valeri P. Maltsev, Alfons G. Hoekstra","The discrete dipole approximation for simulation of light scattering by
+  particles much larger than the wavelength","13 pages, 10 figures","J.Quant.Spectrosc.Radiat.Transf. 106, 546-557 (2007)","10.1016/j.jqsrt.2007.01.033",,"physics.optics physics.comp-ph",,"  In this manuscript we investigate the capabilities of the Discrete Dipole
+Approximation (DDA) to simulate scattering from particles that are much larger
+than the wavelength of the incident light, and describe an optimized publicly
+available DDA computer program that processes the large number of dipoles
+required for such simulations. Numerical simulations of light scattering by
+spheres with size parameters x up to 160 and 40 for refractive index m=1.05 and
+2 respectively are presented and compared with exact results of the Mie theory.
+Errors of both integral and angle-resolved scattering quantities generally
+increase with m and show no systematic dependence on x. Computational times
+increase steeply with both x and m, reaching values of more than 2 weeks on a
+cluster of 64 processors. The main distinctive feature of the computer program
+is the ability to parallelize a single DDA simulation over a cluster of
+computers, which allows it to simulate light scattering by very large
+particles, like the ones that are considered in this manuscript. Current
+limitations and possible ways for improvement are discussed.
+","[{""version"":""v1"",""created"":""Sat, 31 Mar 2007 16:06:05 GMT""}]","2007-05-23"
+"0704.0038","Maxim A. Yurkin","Maxim A. Yurkin, Alfons G. Hoekstra","The discrete dipole approximation: an overview and recent developments","36 pages, 1 figure; added several corrections according to the
+  published erratum except for Eq.(5) (it was correct in the original paper)","J.Quant.Spectrosc.Radiat.Transf. 106, 558-589 (2007); Erratum:
+  J.Quant.Spectrosc.Radiat.Transf. 171, 82-83 (2016)","10.1016/j.jqsrt.2007.01.034 10.1016/j.jqsrt.2015.11.025",,"physics.optics physics.comp-ph","http://creativecommons.org/licenses/by-nc-nd/4.0/","  We present a review of the discrete dipole approximation (DDA), which is a
+general method to simulate light scattering by arbitrarily shaped particles. We
+put the method in historical context and discuss recent developments, taking
+the viewpoint of a general framework based on the integral equations for the
+electric field. We review both the theory of the DDA and its numerical aspects,
+the latter being of critical importance for any practical application of the
+method. Finally, the position of the DDA among other methods of light
+scattering simulation is shown and possible future developments are discussed.
+","[{""version"":""v1"",""created"":""Sat, 31 Mar 2007 16:25:01 GMT""},{""version"":""v2"",""created"":""Tue, 29 Mar 2022 17:39:15 GMT""}]","2022-03-30"
+"0704.0039","Jose Antonio Oller","Jose A. Oller and Luis Roca","Scalar radius of the pion and zeros in the form factor","18 pages, 3 figures. Some rewriting in the presentation of the
+  results and comments to previous works","Phys.Lett.B651:139-146,2007","10.1016/j.physletb.2007.06.023",,"hep-ph hep-lat nucl-th",,"  The quadratic pion scalar radius, \la r^2\ra^\pi_s, plays an important role
+for present precise determinations of \pi\pi scattering. Recently, Yndur\'ain,
+using an Omn\`es representation of the null isospin(I) non-strange pion scalar
+form factor, obtains \la r^2\ra^\pi_s=0.75\pm 0.07 fm^2. This value is larger
+than the one calculated by solving the corresponding Muskhelishvili-Omn\`es
+equations, \la r^2\ra^\pi_s=0.61\pm 0.04 fm^2. A large discrepancy between both
+values, given the precision, then results. We reanalyze Yndur\'ain's method and
+show that by imposing continuity of the resulting pion scalar form factor under
+tiny changes in the input \pi\pi phase shifts, a zero in the form factor for
+some S-wave I=0 T-matrices is then required. Once this is accounted for, the
+resulting value is \la r^2\ra_s^\pi=0.65\pm 0.05 fm^2. The main source of error
+in our determination is present experimental uncertainties in low energy S-wave
+I=0 \pi\pi phase shifts. Another important contribution to our error is the not
+yet settled asymptotic behaviour of the phase of the scalar form factor from
+QCD.
+","[{""version"":""v1"",""created"":""Sat, 31 Mar 2007 17:06:06 GMT""},{""version"":""v2"",""created"":""Wed, 25 Apr 2007 11:14:41 GMT""}]","2008-11-26"
+"0704.0040","Mihai Popa","Mihai Popa","Multilinear function series in conditionally free probability with
+  amalgamation","Final version, published",,,,"math.OA math.FA","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  As in the cases of freeness and monotonic independence, the notion of
+conditional freeness is meaningful when complex-valued states are replaced by
+positive conditional expectations. In this framework, the paper presents
+several positivity results, a version of the central limit theorem and an
+analogue of the conditionally free R-transform constructed by means of
+multilinear function series.
+","[{""version"":""v1"",""created"":""Sat, 31 Mar 2007 17:05:04 GMT""},{""version"":""v2"",""created"":""Wed, 18 Apr 2007 23:00:25 GMT""},{""version"":""v3"",""created"":""Fri, 5 Sep 2008 03:11:45 GMT""}]","2008-09-05"
+"0704.0041","Debashish Goswami","Debashish Goswami","Quantum Group of Isometries in Classical and Noncommutative Geometry","improvements: (i) more general approach through quantum families of
+  isometries, following Woronowicz and Soltan's ideas; (ii) construction of
+  equivaraint spectral triples. also some minor changes. Improved and enlarged
+  version of ICTP preprint IC/2007/017",,"10.1007/s00220-008-0461-1",,"math.QA math-ph math.MP",,"  We formulate a quantum generalization of the notion of the group of
+Riemannian isometries for a compact Riemannian manifold, by introducing a
+natural notion of smooth and isometric action by a compact quantum group on a
+classical or noncommutative manifold described by spectral triples, and then
+proving the existence of a universal object (called the quantum isometry group)
+in the category of compact quantum groups acting smoothly and isometrically on
+a given (possibly noncommutative) manifold satisfying certain regularity
+assumptions. In fact, we identify the quantum isometry group with the universal
+object in a bigger category, namely the category of `quantum families of smooth
+isometries', defined along the line of Woronowicz and Soltan. We also construct
+a spectral triple on the Hilbert space of forms on a noncommutative manifold
+which is equivariant with respect to a natural unitary representation of the
+quantum isometry group. We give explicit description of quantum isometry groups
+of commutative and noncommutative tori, and in this context, obtain the quantum
+double torus defined in \cite{hajac} as the universal quantum group of
+holomorphic isometries of the noncommutative torus.
+","[{""version"":""v1"",""created"":""Sat, 31 Mar 2007 21:04:54 GMT""},{""version"":""v2"",""created"":""Tue, 10 Apr 2007 00:09:57 GMT""},{""version"":""v3"",""created"":""Mon, 23 Jul 2007 19:24:43 GMT""},{""version"":""v4"",""created"":""Fri, 26 Oct 2007 06:15:33 GMT""}]","2009-11-13"
+"0704.0042","Ignazio Licata","Ignazio Licata","General System theory, Like-Quantum Semantics and Fuzzy Sets","12 pages,3 figures",,,"Published in Systemics of Emergence. Research and Development,
+  Minati G., Pessa E., Abram M., Springer, 2006, pages 723-734","physics.gen-ph quant-ph",,"  It is outlined the possibility to extend the quantum formalism in relation to
+the requirements of the general systems theory. It can be done by using a
+quantum semantics arising from the deep logical structure of quantum theory. It
+is so possible taking into account the logical openness relationship between
+observer and system. We are going to show how considering the truth-values of
+quantum propositions within the context of the fuzzy sets is here more useful
+for systemics . In conclusion we propose an example of formal quantum
+coherence.
+","[{""version"":""v1"",""created"":""Sat, 31 Mar 2007 17:28:35 GMT""}]","2010-04-26"
+"0704.0043","Alexander Gorban","R.A. Brownlee, A.N. Gorban, J. Levesley","Nonequilibrium entropy limiters in lattice Boltzmann methods","30 pages, 9 figures, 1 table","Physica A, V. 387, Issues 2-3 (2008), Pages 385-406","10.1016/j.physa.2007.09.031",,"cond-mat.stat-mech cond-mat.mtrl-sci",,"  We construct a system of nonequilibrium entropy limiters for the lattice
+Boltzmann methods (LBM). These limiters erase spurious oscillations without
+blurring of shocks, and do not affect smooth solutions. In general, they do the
+same work for LBM as flux limiters do for finite differences, finite volumes
+and finite elements methods, but for LBM the main idea behind the construction
+of nonequilibrium entropy limiter schemes is to transform a field of a scalar
+quantity - nonequilibrium entropy. There are two families of limiters: (i)
+based on restriction of nonequilibrium entropy (entropy ""trimming"") and (ii)
+based on filtering of nonequilibrium entropy (entropy filtering). The physical
+properties of LBM provide some additional benefits: the control of entropy
+production and accurate estimate of introduced artificial dissipation are
+possible. The constructed limiters are tested on classical numerical examples:
+1D athermal shock tubes with an initial density ratio 1:2 and the 2D lid-driven
+cavity for Reynolds numbers Re between 2000 and 7500 on a coarse 100*100 grid.
+All limiter constructions are applicable for both entropic and non-entropic
+quasiequilibria.
+","[{""version"":""v1"",""created"":""Sat, 31 Mar 2007 17:31:12 GMT""}]","2007-11-19"
+"0704.0044","Alexander Schekochihin","A. A. Schekochihin (Oxford), S. C. Cowley (Culham), W. Dorland
+  (Maryland), G. W. Hammett (Princeton), G. G. Howes (Iowa), E. Quataert
+  (Berkeley), T. Tatsuno (Maryland)","Astrophysical gyrokinetics: kinetic and fluid turbulent cascades in
+  magnetized weakly collisional plasmas","aastex using emulateapj, 65 pages, 10 figures; replaced to match
+  published version","ApJS 182, 310 (2009)","10.1088/0067-0049/182/1/310",,"astro-ph nlin.CD physics.plasm-ph physics.space-ph","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  We present a theoretical framework for plasma turbulence in astrophysical
+plasmas (solar wind, interstellar medium, galaxy clusters, accretion disks).
+The key assumptions are that the turbulence is anisotropic with respect to the
+mean magnetic field and frequencies are low compared to the ion cyclotron
+frequency. The energy injected at the outer scale scale has to be converted
+into heat, which ultimately cannot be done without collisions. A KINETIC
+CASCADE develops that brings the energy to collisional scales both in space and
+velocity. Its nature depends on the physics of plasma fluctuations. In each of
+the physically distinct scale ranges, the kinetic problem is systematically
+reduced to a more tractable set of equations. In the ""inertial range"" above the
+ion gyroscale, the kinetic cascade splits into a cascade of Alfvenic
+fluctuations, which are governed by the RMHD equations at both the collisional
+and collisionless scales, and a passive cascade of compressive fluctuations,
+which obey a linear kinetic equation along the moving field lines associated
+with the Alfvenic component. In the ""dissipation range"" between the ion and
+electron gyroscales, there are again two cascades: the kinetic-Alfven-wave
+(KAW) cascade governed by two fluid-like Electron RMHD equations and a passive
+phase-space cascade of ion entropy fluctuations. The latter cascade brings the
+energy of the inertial-range fluctuations that was damped by collisionless
+wave-particle interaction at the ion gyroscale to collisional scales in the
+phase space and leads to ion heating. The KAW energy is similarly damped at the
+electron gyroscale and converted into electron heat. Kolmogorov-style scaling
+relations are derived for these cascades. Astrophysical and space-physical
+applications are discussed in detail.
+","[{""version"":""v1"",""created"":""Sat, 31 Mar 2007 17:47:54 GMT""},{""version"":""v2"",""created"":""Sat, 24 May 2008 19:38:45 GMT""},{""version"":""v3"",""created"":""Sat, 24 Jan 2009 19:05:36 GMT""},{""version"":""v4"",""created"":""Sat, 9 May 2009 19:26:10 GMT""}]","2015-05-13"
+"0704.0045","A. M. Kamchatnov","G.A. El, R.H.J. Grimshaw, A.M. Kamchatnov","Evolution of solitary waves and undular bores in shallow-water flows
+  over a gradual slope with bottom friction","accepted for publication in J. Fluid Mech.","J. Fluid Mech. 585, 213-244 (2007)","10.1017/S0022112007006817",,"nlin.PS nlin.SI",,"  This paper considers the propagation of shallow-water solitary and nonlinear
+periodic waves over a gradual slope with bottom friction in the framework of a
+variable-coefficient Korteweg-de Vries equation. We use the Whitham averaging
+method, using a recent development of this theory for perturbed integrable
+equations. This general approach enables us not only to improve known results
+on the adiabatic evolution of isolated solitary waves and periodic wave trains
+in the presence of variable topography and bottom friction, modeled by the
+Chezy law, but also importantly, to study the effects of these factors on the
+propagation of undular bores, which are essentially unsteady in the system
+under consideration. In particular, it is shown that the combined action of
+variable topography and bottom friction generally imposes certain global
+restrictions on the undular bore propagation so that the evolution of the
+leading solitary wave can be substantially different from that of an isolated
+solitary wave with the same initial amplitude. This non-local effect is due to
+nonlinear wave interactions within the undular bore and can lead to an
+additional solitary wave amplitude growth, which cannot be predicted in the
+framework of the traditional adiabatic approach to the propagation of solitary
+waves in slowly varying media.
+","[{""version"":""v1"",""created"":""Sat, 31 Mar 2007 18:09:02 GMT""}]","2007-09-23"
+"0704.0047","Igor Grabec","T. Kosel and I. Grabec","Intelligent location of simultaneously active acoustic emission sources:
+  Part I","5 pages, 5 eps figures, uses IEEEtran.cls",,,,"cs.NE cs.AI",,"  The intelligent acoustic emission locator is described in Part I, while Part
+II discusses blind source separation, time delay estimation and location of two
+simultaneously active continuous acoustic emission sources.
+  The location of acoustic emission on complicated aircraft frame structures is
+a difficult problem of non-destructive testing. This article describes an
+intelligent acoustic emission source locator. The intelligent locator comprises
+a sensor antenna and a general regression neural network, which solves the
+location problem based on learning from examples. Locator performance was
+tested on different test specimens. Tests have shown that the accuracy of
+location depends on sound velocity and attenuation in the specimen, the
+dimensions of the tested area, and the properties of stored data. The location
+accuracy achieved by the intelligent locator is comparable to that obtained by
+the conventional triangulation method, while the applicability of the
+intelligent locator is more general since analysis of sonic ray paths is
+avoided. This is a promising method for non-destructive testing of aircraft
+frame structures by the acoustic emission method.
+","[{""version"":""v1"",""created"":""Sun, 1 Apr 2007 13:06:50 GMT""}]","2009-09-29"
+"0704.0048","Alexander Stroeer","Alexander Stroeer, John Veitch, Christian Roever, Ed Bloomer, James
+  Clark, Nelson Christensen, Martin Hendry, Chris Messenger, Renate Meyer,
+  Matthew Pitkin, Jennifer Toher, Richard Umstaetter, Alberto Vecchio and
+  Graham Woan","Inference on white dwarf binary systems using the first round Mock LISA
+  Data Challenges data sets","GWDAW-11 proceeding, submitted to CQG, 10 pages, 3 figures, 1 table;
+  revised values in table","Class.Quant.Grav.24:S541-S550,2007","10.1088/0264-9381/24/19/S17",,"gr-qc astro-ph",,"  We report on the analysis of selected single source data sets from the first
+round of the Mock LISA Data Challenges (MLDC) for white dwarf binaries. We
+implemented an end-to-end pipeline consisting of a grid-based coherent
+pre-processing unit for signal detection, and an automatic Markov Chain Monte
+Carlo post-processing unit for signal evaluation. We demonstrate that signal
+detection with our coherent approach is secure and accurate, and is increased
+in accuracy and supplemented with additional information on the signal
+parameters by our Markov Chain Monte Carlo approach. We also demonstrate that
+the Markov Chain Monte Carlo routine is additionally able to determine
+accurately the noise level in the frequency window of interest.
+","[{""version"":""v1"",""created"":""Sat, 31 Mar 2007 19:17:47 GMT""},{""version"":""v2"",""created"":""Tue, 3 Apr 2007 22:26:37 GMT""}]","2008-11-26"
+"0704.0052","William Gordon Ritter","Arthur Jaffe (1) and Gordon Ritter (1) ((1) Harvard University)","Quantum Field Theory on Curved Backgrounds. II. Spacetime Symmetries","18 pages, 1 figure",,,,"hep-th",,"  We study space-time symmetries in scalar quantum field theory (including
+interacting theories) on static space-times. We first consider Euclidean
+quantum field theory on a static Riemannian manifold, and show that the
+isometry group is generated by one-parameter subgroups which have either
+self-adjoint or unitary quantizations. We analytically continue the
+self-adjoint semigroups to one-parameter unitary groups, and thus construct a
+unitary representation of the isometry group of the associated Lorentzian
+manifold. The method is illustrated for the example of hyperbolic space, whose
+Lorentzian continuation is Anti-de Sitter space.
+","[{""version"":""v1"",""created"":""Sat, 31 Mar 2007 20:07:39 GMT""}]","2007-05-23"
+"0704.0053","Nabil Youssef L","Nabil L. Youssef, S. H. Abed and A. Soleiman","A Global Approach to the Theory of Special Finsler Manifolds","32 pages, LaTeX file, Abstract and Introduction modified. Journal-ref
+  removed (it was entered by mistake)","J. Math. Kyoto Univ., 48 (2008), 857-893.",,,"math.DG gr-qc",,"  The aim of the present paper is to provide a global presentation of the
+theory of special Finsler manifolds. We introduce and investigate globally (or
+intrinsically, free from local coordinates) many of the most important and most
+commonly used special Finsler manifolds: locally Minkowskian, Berwald,
+Landesberg, general Landesberg, $P$-reducible, $C$-reducible,
+semi-$C$-reducible, quasi-$C$-reducible, $P^{*}$-Finsler, $C^{h}$-recurrent,
+$C^{v}$-recurrent, $C^{0}$-recurrent, $S^{v}$-recurrent, $S^{v}$-recurrent of
+the second order, $C_{2}$-like, $S_{3}$-like, $S_{4}$-like, $P_{2}$-like,
+$R_{3}$-like, $P$-symmetric, $h$-isotropic, of scalar curvature, of constant
+curvature, of $p$-scalar curvature, of $s$-$ps$-curvature. The global
+definitions of these special Finsler manifolds are introduced. Various
+relationships between the different types of the considered special Finsler
+manifolds are found. Many local results, known in the literature, are proved
+globally and several new results are obtained. As a by-product, interesting
+identities and properties concerning the torsion tensor fields and the
+curvature tensor fields are deduced. Although our investigation is entirely
+global, we provide; for comparison reasons, an appendix presenting a local
+counterpart of our global approach and the local definitions of the special
+Finsler spaces considered.
+","[{""version"":""v1"",""created"":""Sat, 31 Mar 2007 20:14:41 GMT""},{""version"":""v2"",""created"":""Sun, 8 Apr 2007 09:36:13 GMT""},{""version"":""v3"",""created"":""Thu, 6 Sep 2007 22:11:34 GMT""}]","2009-04-20"
+"0704.0056","Franz Saija","Santi Prestipino and Franz Saija","Phase diagram of Gaussian-core nematics","15 pages, 1 table, 10 figures, submitted on J. Chem. Phys.","J. Chem. Phys. 126, 194902 (2007)","10.1063/1.2737041",,"cond-mat.soft cond-mat.mtrl-sci",,"  We study a simple model of a nematic liquid crystal made of parallel
+ellipsoidal particles interacting via a repulsive Gaussian law. After
+identifying the relevant solid phases of the system through a careful
+zero-temperature scrutiny of as many as eleven candidate crystal structures, we
+determine the melting temperature for various pressure values, also with the
+help of exact free energy calculations. Among the prominent features of this
+model are pressure-driven reentrant melting and the stabilization of a columnar
+phase for intermediate temperatures.
+","[{""version"":""v1"",""created"":""Sat, 31 Mar 2007 21:51:45 GMT""}]","2009-11-13"
+"0704.0058","Frank Tipler","Frank J. Tipler","Intelligent Life in Cosmology",,"International Journal of Astrobiology 2 (2003) 141-148","10.1017/S1473550403001526",,"physics.pop-ph",,"  I shall present three arguments for the proposition that intelligent life is
+very rare in the universe. First, I shall summarize the consensus opinion of
+the founders of the Modern Synthesis (Simpson, Dobzhanski, and Mayr) that the
+evolution of intelligent life is exceedingly improbable. Second, I shall
+develop the Fermi Paradox: if they existed they'd be here. Third, I shall show
+that if intelligent life were too common, it would use up all available
+resources and die out. But I shall show that the quantum mechanical principle
+of unitarity (actually a form of teleology!) requires intelligent life to
+survive to the end of time. Finally, I shall argue that, if the universe is
+indeed accelerating, then survival to the end of time requires that intelligent
+life, though rare, to have evolved several times in the visible universe. I
+shall argue that the acceleration is a consequence of the excess of matter over
+antimatter in the universe. I shall suggest experiments to test these claims.
+","[{""version"":""v1"",""created"":""Sat, 31 Mar 2007 21:59:26 GMT""}]","2015-05-13"
+"0704.0059","Thomas Beatty","T. G. Beatty, J. M. Fernandez, D. W. Latham, G. A. Bakos, G. Kovacs,
+  R. W. Noyes, R. P. Stefanik, G. Torres, M. E. Everett, C. W. Hergenrother","The Mass and Radius of the Unseen M-Dwarf Companion in the Single-Lined
+  Eclipsing Binary HAT-TR-205-013","18 pages, 9 tables and 6 figures; accepted by ApJ. Added a reference
+  and corrected a typo","Astrophys.J.663:573-582,2007","10.1086/518413",,"astro-ph",,"  We derive masses and radii for both components in the single-lined eclipsing
+binary HAT-TR-205-013, which consists of a F7V primary and a late M-dwarf
+secondary. The system's period is short, $P=2.230736 \pm 0.000010$ days, with
+an orbit indistinguishable from circular, $e=0.012 \pm 0.021$. We demonstrate
+generally that the surface gravity of the secondary star in a single-lined
+binary undergoing total eclipses can be derived from characteristics of the
+light curve and spectroscopic orbit. This constrains the secondary to a unique
+line in the mass-radius diagram with $M/R^2$ = constant. For HAT-TR-205-013, we
+assume the orbit has been tidally circularized, and that the primary's rotation
+has been synchronized and aligned with the orbital axis. Our observed line
+broadening, $V_{\rm rot} \sin i_{\rm rot} = 28.9 \pm 1.0$ \kms, gives a primary
+radius of $R_{\rm A} = 1.28 \pm 0.04$ \rsun. Our light curve analysis leads to
+the radius of the secondary, $R_{\rm B} = 0.167 \pm 0.006$ \rsun, and the
+semimajor axis of the orbit, $a = 7.54 \pm 0.30 \rsun = 0.0351 \pm 0.0014$ AU.
+Our single-lined spectroscopic orbit and the semimajor axis then yield the
+individual masses, $M_{\rm B} = 0.124 \pm 0.010$ \msun and $M_{\rm A} = 1.04
+\pm 0.13$ \msun. Our result for HAT-TR-205-013 B lies above the theoretical
+mass-radius models from the Lyon group, consistent with results from
+double-lined eclipsing binaries. The method we describe offers the opportunity
+to study the very low end of the stellar mass-radius relation.
+","[{""version"":""v1"",""created"":""Sat, 31 Mar 2007 22:16:50 GMT""},{""version"":""v2"",""created"":""Mon, 9 Apr 2007 15:50:24 GMT""}]","2009-06-23"
+"0704.0060","Carlos Bertulani","C.A. Bertulani, G. Cardella, M. De Napoli, G. Raciti, and E. Rapisarda","Coulomb excitation of unstable nuclei at intermediate energies","12 pages, 2 figures, accepted for publication in Phys. Lett. B","Phys.Lett.B650:233-238,2007","10.1016/j.physletb.2007.05.029",,"nucl-th",,"  We investigate the Coulomb excitation of low-lying states of unstable nuclei
+in intermediate energy collisions ($E_{lab}\sim10-500$ MeV/nucleon). It is
+shown that the cross sections for the $E1$ and $E2$ transitions are larger at
+lower energies, much less than 10 MeV/nucleon. Retardation effects and Coulomb
+distortion are found to be both relevant for energies as low as 10 MeV/nucleon
+and as high as 500 MeV/nucleon. Implications for studies at radioactive beam
+facilities are discussed.
+","[{""version"":""v1"",""created"":""Sat, 31 Mar 2007 22:24:53 GMT""},{""version"":""v2"",""created"":""Mon, 21 May 2007 16:23:27 GMT""}]","2008-11-26"
+"0704.0061","Boris Rubin","Boris Rubin","Intersection Bodies and Generalized Cosine Transforms","38 pages",,,,"math.FA",,"  Intersection bodies represent a remarkable class of geometric objects
+associated with sections of star bodies and invoking
+  Radon transforms, generalized cosine transforms, and the relevant Fourier
+analysis. The main focus of this article is interrelation between generalized
+cosine transforms of different kinds in the context of their application to
+investigation of a certain family of intersection bodies, which we call
+$\lam$-intersection bodies. The latter include $k$-intersection bodies (in the
+sense of A. Koldobsky) and unit balls of finite-dimensional subspaces of
+$L_p$-spaces. In particular, we show that restrictions onto lower dimensional
+subspaces of the spherical Radon transforms and the generalized cosine
+transforms preserve their integral-geometric structure. We apply this result to
+the study of sections of $\lam$-intersection bodies. New characterizations of
+this class of bodies are obtained and examples are given. We also review some
+known facts and give them new proofs.
+","[{""version"":""v1"",""created"":""Sat, 31 Mar 2007 22:45:05 GMT""},{""version"":""v2"",""created"":""Thu, 3 May 2007 18:03:34 GMT""}]","2007-05-23"
+"0704.0062","Tom\'a\v{s} Vina\v{r}","Rastislav \v{S}r\'amek, Bro\v{n}a Brejov\'a, Tom\'a\v{s} Vina\v{r}","On-line Viterbi Algorithm and Its Relationship to Random Walks",,"Algorithms in Bioinformatics: 7th International Workshop (WABI),
+  4645 volume of Lecture Notes in Computer Science, pp. 240-251, Philadelphia,
+  PA, USA, September 2007. Springer","10.1007/978-3-540-74126-8_23",,"cs.DS",,"  In this paper, we introduce the on-line Viterbi algorithm for decoding hidden
+Markov models (HMMs) in much smaller than linear space. Our analysis on
+two-state HMMs suggests that the expected maximum memory used to decode
+sequence of length $n$ with $m$-state HMM can be as low as $\Theta(m\log n)$,
+without a significant slow-down compared to the classical Viterbi algorithm.
+Classical Viterbi algorithm requires $O(mn)$ space, which is impractical for
+analysis of long DNA sequences (such as complete human genome chromosomes) and
+for continuous data streams. We also experimentally demonstrate the performance
+of the on-line Viterbi algorithm on a simple HMM for gene finding on both
+simulated and real DNA sequences.
+","[{""version"":""v1"",""created"":""Sat, 31 Mar 2007 23:52:33 GMT""}]","2010-01-25"
+"0704.0063","Somnath Choudhury","Somnath Choudhury","Experimental efforts in search of 76Ge Neutrinoless Double Beta Decay",,,,,"hep-ph",,"  Neutrinoless double beta decay is one of the most sensitive approaches in
+non-accelerator particle physics to take us into a regime of physics beyond the
+standard model. This article is a brief review of the experiments in search of
+neutrinoless double beta decay from 76Ge. Following a brief introduction of the
+process of double beta decay from 76Ge, the results of the very first
+experiments IGEX and Heidelberg-Moscow which give indications of the existence
+of possible neutrinoless double beta decay mode has been reviewed. Then ongoing
+efforts to substantiate the early findings are presented and the Majorana
+experiment as a future experimental approach which will allow a very detailed
+study of the neutrinoless decay mode is discussed.
+","[{""version"":""v1"",""created"":""Sun, 1 Apr 2007 00:15:54 GMT""},{""version"":""v2"",""created"":""Tue, 3 Apr 2007 23:51:30 GMT""},{""version"":""v3"",""created"":""Fri, 27 Apr 2007 17:42:41 GMT""},{""version"":""v4"",""created"":""Wed, 12 Mar 2008 16:14:26 GMT""}]","2008-03-12"
+"0704.0064","Rudra Prakash Malik","R. P. Malik (Bhu)","Nilpotent symmetry invariance in the superfield formulation: the
+  (non-)Abelian 1-form gauge theories","LaTeX file, 19 pages, journal reference","Int.J.Mod.Phys.A23:3685-3705,2008","10.1142/S0217751X08041591",,"hep-th","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  We capture the off-shell as well as the on-shell nilpotent
+Becchi-Rouet-Stora-Tyutin (BRST) and anti-BRST symmetry invariance of the
+Lagrangian densities of the four (3 + 1)-dimensional (4D) (non-)Abelian 1-form
+gauge theories within the framework of the superfield formalism. In particular,
+we provide the geometrical interpretations for (i) the above nilpotent symmetry
+invariance, and (ii) the above Lagrangian densities, in the language of the
+specific quantities defined in the domain of the above superfield formalism.
+Some of the subtle points, connected with the 4D (non-)Abelian 1-form gauge
+theories, are clarified within the framework of the above superfield formalism
+where the 4D ordinary gauge theories are considered on the (4, 2)-dimensional
+supermanifold parametrized by the four spacetime coordinates x^\mu (with \mu =
+0, 1, 2, 3) and a pair of Grassmannian variables \theta and \bar\theta. One of
+the key results of our present investigation is a great deal of simplification
+in the geometrical understanding of the nilpotent (anti-)BRST symmetry
+invariance.
+","[{""version"":""v1"",""created"":""Sun, 1 Apr 2007 13:32:15 GMT""},{""version"":""v2"",""created"":""Thu, 3 May 2007 16:35:49 GMT""},{""version"":""v3"",""created"":""Thu, 6 Dec 2007 13:31:19 GMT""},{""version"":""v4"",""created"":""Thu, 5 Jun 2008 11:21:43 GMT""},{""version"":""v5"",""created"":""Fri, 24 Oct 2008 12:23:58 GMT""}]","2008-11-26"
+"0704.0066","Bozhidar Zakhariev Iliev","Bozhidar Z. Iliev (Institute for Nuclear Research and Nuclear Energy,
+  Bulgarian Academy of Sciences, Sofia, Bulgaria)","Lagrangian quantum field theory in momentum picture. IV. Commutation
+  relations for free fields","60 LaTeX pages. The packages AMS-LaTeX and amsfonts are required.
+  This paper is a continuation of the e-print E-prints No. hep-th/0402006, No.
+  hep-th/0405008 and No. hep-th/0505007. For related papers, visit the
+  ""publication"" pages at http://theo.inrne.bas.bg/~bozho/",,,,"hep-th",,"  Possible (algebraic) commutation relations in the Lagrangian quantum theory
+of free (scalar, spinor and vector) fields are considered from mathematical
+view-point. As sources of these relations are employed the Heisenberg
+equations/relations for the dynamical variables and a specific condition for
+uniqueness of the operators of the dynamical variables (with respect to some
+class of Lagrangians). The paracommutation relations or some their
+generalizations are pointed as the most general ones that entail the validity
+of all Heisenberg equations. The simultaneous fulfillment of the Heisenberg
+equations and the uniqueness requirement turn to be impossible. This problem is
+solved via a redefinition of the dynamical variables, similar to the normal
+ordering procedure and containing it as a special case. That implies
+corresponding changes in the admissible commutation relations. The introduction
+of the concept of the vacuum makes narrow the class of the possible commutation
+relations; in particular, the mentioned redefinition of the dynamical variables
+is reduced to normal ordering. As a last restriction on that class is imposed
+the requirement for existing of an effective procedure for calculating vacuum
+mean values. The standard bilinear commutation relations are pointed as the
+only known ones that satisfy all of the mentioned conditions and do not
+contradict to the existing data.
+","[{""version"":""v1"",""created"":""Sun, 1 Apr 2007 06:22:38 GMT""}]","2007-05-23"
+"0704.0067","Lawrence Friedman","Lawrence H. Friedman","Order of Epitaxial Self-Assembled Quantum Dots: Linear Analysis",,"L. H. Friedman. Order of epitaxial self-assembled quantum dots:
+  Linear analysis. Journal of Nanophotonics, 1(1):013513, 2007.","10.1117/1.2753144",,"cond-mat.mtrl-sci",,"  Epitaxial self-assembled quantum dots (SAQDs) are of interest for
+nanostructured optoelectronic and electronic devices such as lasers,
+photodetectors and nanoscale logic. Spatial order and size order of SAQDs are
+important to the development of usable devices. It is likely that these two
+types of order are strongly linked; thus, a study of spatial order will also
+have strong implications for size order. Here a study of spatial order is
+undertaken using a linear analysis of a commonly used model of SAQD formation
+based on surface diffusion. Analytic formulas for film-height correlation
+functions are found that characterize quantum dot spatial order and
+corresponding correlation lengths that quantify order. Initial atomic-scale
+random fluctuations result in relatively small correlation lengths (about two
+dots) when the effect of a wetting potential is negligible; however, the
+correlation lengths diverge when SAQDs are allowed to form at a near-critical
+film height. The present work reinforces previous findings about anisotropy and
+SAQD order and presents as explicit and transparent mechanism for ordering with
+corresponding analytic equations. In addition, SAQD formation is by its nature
+a stochastic process, and various mathematical aspects regarding statistical
+analysis of SAQD formation and order are presented.
+","[{""version"":""v1"",""created"":""Sun, 1 Apr 2007 05:30:59 GMT""}]","2007-06-09"
+"0704.0068","Branko Malesevic","Branko J. Malesevic","A Note About the {Ki(z)} Functions","Accepted in Rocky Mountain Journal of mathematics",,,,"math.NT math.CV",,"  In the article [Petojevic 2006], A. Petojevi\' c verified useful properties
+of the $K_{i}(z)$ functions which generalize Kurepa's [Kurepa 1971] left
+factorial function. In this note, we present simplified proofs of two of these
+results and we answer the open question stated in [Petojevic 2006]. Finally, we
+discuss the differential transcendency of the $K_{i}(z)$ functions.
+","[{""version"":""v1"",""created"":""Sun, 1 Apr 2007 05:42:28 GMT""},{""version"":""v2"",""created"":""Fri, 25 May 2007 17:07:20 GMT""}]","2007-06-13"
+"0704.0069","John Robertson","John W. Robertson","Dynamical Objects for Cohomologically Expanding Maps","38 pages",,,,"math.DS",,"  The goal of this paper is to construct invariant dynamical objects for a (not
+necessarily invertible) smooth self map of a compact manifold. We prove a
+result that takes advantage of differences in rates of expansion in the terms
+of a sheaf cohomological long exact sequence to create unique lifts of finite
+dimensional invariant subspaces of one term of the sequence to invariant
+subspaces of the preceding term. This allows us to take invariant cohomological
+classes and under the right circumstances construct unique currents of a given
+type, including unique measures of a given type, that represent those classes
+and are invariant under pullback. A dynamically interesting self map may have a
+plethora of invariant measures, so the uniquess of the constructed currents is
+important. It means that if local growth is not too big compared to the growth
+rate of the cohomological class then the expanding cohomological class gives
+sufficient ""marching orders"" to the system to prohibit the formation of any
+other such invariant current of the same type (say from some local dynamical
+subsystem). Because we use subsheaves of the sheaf of currents we give
+conditions under which a subsheaf will have the same cohomology as the sheaf
+containing it. Using a smoothing argument this allows us to show that the sheaf
+cohomology of the currents under consideration can be canonically identified
+with the deRham cohomology groups. Our main theorem can be applied in both the
+smooth and holomorphic setting.
+","[{""version"":""v1"",""created"":""Sun, 1 Apr 2007 06:48:47 GMT""}]","2010-01-08"
+"0704.0070","Yanzhang He","He Yanzhang and Bao Chengguang","Coincidence of the oscillations in the dipole transition and in the
+  persistent current of narrow quantum rings with two electrons","5 pages, 4 figures, submitted","J. Phys.: Condens. Matter 20 (2008) 055214",,,"cond-mat.mes-hall",,"  The fractional Aharonov-Bohm oscillation (FABO) of narrow quantum rings with
+two electrons has been studied and has been explained in an analytical way, the
+evolution of the period and amplitudes against the magnetic field can be
+exactly described. Furthermore, the dipole transition of the ground state was
+found to have essentially two frequencies, their difference appears as an
+oscillation matching the oscillation of the persistent current exactly. A
+number of equalities relating the observables and dynamical parameters have
+been found.
+","[{""version"":""v1"",""created"":""Sun, 1 Apr 2007 06:49:32 GMT""}]","2008-01-19"
+"0704.0071","Dietrich Stauffer","S. Wichmann and E.W. Holman","Pairwise comparisons of typological profiles (of languages)","Linguistics, 10 pages including figure and tables,",,,,"physics.soc-ph",,"  No abstract given; compares pairs of languages from World Atlas of Language
+Structures.
+","[{""version"":""v1"",""created"":""Sun, 1 Apr 2007 07:36:16 GMT""}]","2007-05-23"
+"0704.0072","Yurii Kosovtsov","Yu.N. Kosovtsov","The decomposition method and Maple procedure for finding first integrals
+  of nonlinear PDEs of any order with any number of independent variables","13 pages; Submitted to the 10th International Workshop in Computer
+  Algebra in Scientific Computing, CASC 2007",,,,"math-ph math.MP",,"  In present paper we propose seemingly new method for finding solutions of
+some types of nonlinear PDEs in closed form. The method is based on
+decomposition of nonlinear operators on sequence of operators of lower orders.
+It is shown that decomposition process can be done by iterative procedure(s),
+each step of which is reduced to solution of some auxiliary PDEs system(s) for
+one dependent variable. Moreover, we find on this way the explicit expression
+of the first-order PDE(s) for first integral of decomposable initial PDE.
+Remarkably that this first-order PDE is linear if initial PDE is linear in its
+highest derivatives.
+  The developed method is implemented in Maple procedure, which can really
+solve many of different order PDEs with different number of independent
+variables. Examples of PDEs with calculated their general solutions demonstrate
+a potential of the method for automatic solving of nonlinear PDEs.
+","[{""version"":""v1"",""created"":""Sun, 1 Apr 2007 07:58:53 GMT""}]","2007-05-23"
+"0704.0073","Osamu Fujino","Osamu Fujino","A transcendental approach to Koll\'ar's injectivity theorem","22 pages; a minor revision of the preprint circulated in January
+  2006, v2: minor modifications, v3: final version, to appear in Osaka J. Math",,,,"math.AG","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  We treat Koll\'ar's injectivity theorem from the analytic (or differential
+geometric) viewpoint. More precisely, we give a curvature condition which
+implies Koll\'ar type cohomology injectivity theorems. Our main theorem is
+formulated for a compact K\""ahler manifold, but the proof uses the space of
+harmonic forms on a Zariski open set with a suitable complete K\""ahler metric.
+We need neither covering tricks, desingularizations, nor Leray's spectral
+sequence.
+","[{""version"":""v1"",""created"":""Sun, 1 Apr 2007 08:40:19 GMT""},{""version"":""v2"",""created"":""Tue, 4 Jan 2011 00:41:06 GMT""},{""version"":""v3"",""created"":""Mon, 5 Mar 2012 01:44:29 GMT""}]","2012-03-06"
+"0704.0074","Jawad Y. Abuhlail","J. Y. Abuhlail, S. K. Nauman","Injective Morita contexts (revisited)",,,,,"math.RA",,"  This paper is an exposition of the so-called injective Morita contexts (in
+which the connecting bimodule morphisms are injective) and Morita
+$\alpha$contexts (in which the connecting bimodules enjoy some local
+projectivity in the sense of Zimmermann-Huisgen). Motivated by situations in
+which only one trace ideal is in action, or the compatibility between the
+bimodule morphisms is not needed, we introduce the notions of Morita
+semi-contexts and Morita data, and investigate them. Injective Morita data will
+be used (with the help of static and adstatic modules) to establish
+equivalences between some intersecting subcategories related to subcategories
+of modules that are localized or colocalized by trace ideals of a Morita datum.
+We end up with applications of Morita $\alpha$-contexts to $\ast$-modules and
+injective right wide Morita contexts.
+","[{""version"":""v1"",""created"":""Sun, 1 Apr 2007 09:34:47 GMT""},{""version"":""v2"",""created"":""Tue, 21 Aug 2007 21:54:33 GMT""}]","2007-08-22"
+"0704.0075","Xiang Liu","Chong Chen, Xiao-Lin Chen, Xiang Liu, Wei-Zhen Deng and Shi-Lin Zhu","Strong decays of charmed baryons","13 pages, 9 figures, 9 tables. Some descriptions changed. Published
+  version in PRD","Phys.Rev.D75:094017,2007","10.1103/PhysRevD.75.094017",,"hep-ph hep-ex nucl-ex",,"  There has been important experimental progress in the sector of heavy baryons
+in the past several years. We study the strong decays of the S-wave, P-wave,
+D-wave and radially excited charmed baryons using the $^3P_0$ model. After
+comparing the calculated decay pattern and total width with the available data,
+we discuss the possible internal structure and quantum numbers of those charmed
+baryons observed recently.
+","[{""version"":""v1"",""created"":""Sun, 1 Apr 2007 09:45:55 GMT""},{""version"":""v2"",""created"":""Wed, 4 Apr 2007 12:24:08 GMT""},{""version"":""v3"",""created"":""Fri, 20 Apr 2007 16:20:10 GMT""}]","2008-11-26"
+"0704.0077","Afsar Abbas","Afsar Abbas","Universal Forces and the Dark Energy Problem","9 pages. no figures",,,,"physics.gen-ph",,"  The Dark Energy problem is forcing us to re-examine our models and our
+understanding of relativity and space-time. Here a novel idea of Fundamental
+Forces is introduced. This allows us to perceive the General Theory of
+Relativity and Einstein's Equation from a new pesrpective. In addition to
+providing us with an improved understanding of space and time, it will be shown
+how it leads to a resolution of the Dark Energy problem.
+","[{""version"":""v1"",""created"":""Sun, 1 Apr 2007 09:49:01 GMT""}]","2007-05-23"
+"0704.0078","Raul Vera","Marc Mars, Filipe C. Mena, Raul Vera","Linear perturbations of matched spacetimes: the gauge problem and
+  background symmetries","18 pages, plain LaTeX file","Class.Quant.Grav.24:3673-3690,2007","10.1088/0264-9381/24/14/008",,"gr-qc",,"  We present a critical review about the study of linear perturbations of
+matched spacetimes including gauge problems. We analyse the freedom introduced
+in the perturbed matching by the presence of background symmetries and revisit
+the particular case of spherically symmetry in n-dimensions. This analysis
+includes settings with boundary layers such as brane world models and shell
+cosmologies.
+","[{""version"":""v1"",""created"":""Sun, 1 Apr 2007 10:08:25 GMT""}]","2008-11-26"
+"0704.0080","Dean McLaughlin","Dean E. McLaughlin and S. Michael Fall","Shaping the Globular Cluster Mass Function by Stellar-Dynamical
+  Evaporation","Final version, matching the published paper","Astrophys.J.679:1272-1287,2008","10.1086/533485",,"astro-ph","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  We show that the globular cluster mass function (GCMF) in the Milky Way
+depends on cluster half-mass density (rho_h) in the sense that the turnover
+mass M_TO increases with rho_h while the width of the GCMF decreases. We argue
+that this is the expected signature of the slow erosion of a mass function that
+initially rose towards low masses, predominantly through cluster evaporation
+driven by internal two-body relaxation. We find excellent agreement between the
+observed GCMF -- including its dependence on internal density rho_h, central
+concentration c, and Galactocentric distance r_gc -- and a simple model in
+which the relaxation-driven mass-loss rates of clusters are approximated by
+-dM/dt = mu_ev ~ rho_h^{1/2}. In particular, we recover the well-known
+insensitivity of M_TO to r_gc. This feature does not derive from a literal
+``universality'' of the GCMF turnover mass, but rather from a significant
+variation of M_TO with rho_h -- the expected outcome of relaxation-driven
+cluster disruption -- plus significant scatter in rho_h as a function of r_gc.
+Our conclusions are the same if the evaporation rates are assumed to depend
+instead on the mean volume or surface densities of clusters inside their tidal
+radii, as mu_ev ~ rho_t^{1/2} or mu_ev ~ Sigma_t^{3/4} -- alternative
+prescriptions that are physically motivated but involve cluster properties
+(rho_t and Sigma_t) that are not as well defined or as readily observable as
+rho_h. In all cases, the normalization of mu_ev required to fit the GCMF
+implies cluster lifetimes that are within the range of standard values
+(although falling towards the low end of this range). Our analysis does not
+depend on any assumptions or information about velocity anisotropy in the
+globular cluster system.
+","[{""version"":""v1"",""created"":""Sun, 1 Apr 2007 10:20:37 GMT""},{""version"":""v2"",""created"":""Mon, 10 Sep 2007 16:43:49 GMT""},{""version"":""v3"",""created"":""Thu, 24 Jan 2008 17:02:00 GMT""},{""version"":""v4"",""created"":""Wed, 11 Jun 2008 17:15:32 GMT""}]","2010-11-11"
+"0704.0082","Tetsuo Kurosaki","Tetsuo Kurosaki, Miki Wadati","Matter-Wave Bright Solitons with a Finite Background in Spinor
+  Bose-Einstein Condensates","18 pages, 4 figures, LaTeX",,"10.1143/JPSJ.76.084002",,"cond-mat.other cond-mat.stat-mech",,"  We investigate dynamical properties of bright solitons with a finite
+background in the F=1 spinor Bose-Einstein condensate (BEC), based on an
+integrable spinor model which is equivalent to the matrix nonlinear
+Schr\""{o}dinger equation with a self-focusing nonlineality. We apply the
+inverse scattering method formulated for nonvanishing boundary conditions. The
+resulting soliton solutions can be regarded as a generalization of those under
+vanishing boundary conditions. One-soliton solutions are derived in an explicit
+manner. According to the behaviors at the infinity, they are classified into
+two kinds, domain-wall (DW) type and phase-shift (PS) type. The DW-type implies
+the ferromagnetic state with nonzero total spin and the PS-type implies the
+polar state, where the total spin amounts to zero. We also discuss two-soliton
+collisions. In particular, the spin-mixing phenomenon is confirmed in a
+collision involving the DW-type. The results are consistent with those of the
+previous studies for bright solitons under vanishing boundary conditions and
+dark solitons. As a result, we establish the robustness and the usefulness of
+the multiple matter-wave solitons in the spinor BECs.
+","[{""version"":""v1"",""created"":""Sun, 1 Apr 2007 12:26:50 GMT""}]","2009-11-13"
+"0704.0083","Andrei Barvinsky","A.O.Barvinsky","Why there is something rather than nothing (out of everything)?","4 pages, RevTex, several references added and minor changes done","Phys.Rev.Lett.99:071301,2007","10.1103/PhysRevLett.99.071301",,"hep-th",,"  The path integral over Euclidean geometries for the recently suggested
+density matrix of the Universe is shown to describe a microcanonical ensemble
+in quantum cosmology. This ensemble corresponds to a uniform (weight one)
+distribution in phase space of true physical variables, but in terms of the
+observable spacetime geometry it is peaked about complex saddle-points of the
+{\em Lorentzian} path integral. They are represented by the recently obtained
+cosmological instantons limited to a bounded range of the cosmological
+constant. Inflationary cosmologies generated by these instantons at late stages
+of expansion undergo acceleration whose low-energy scale can be attained within
+the concept of dynamically evolving extra dimensions. Thus, together with the
+bounded range of the early cosmological constant, this cosmological ensemble
+suggests the mechanism of constraining the landscape of string vacua and,
+simultaneously, a possible solution to the dark energy problem in the form of
+the quasi-equilibrium decay of the microcanonical state of the Universe.
+","[{""version"":""v1"",""created"":""Sun, 1 Apr 2007 12:38:03 GMT""},{""version"":""v2"",""created"":""Mon, 9 Apr 2007 19:39:24 GMT""}]","2008-11-26"
+"0704.0084","Baruch Meerson","Itzhak Fouxon, Baruch Meerson, Michael Assaf, Eli Livne","Formation of density singularities in ideal hydrodynamics of freely
+  cooling inelastic gases: a family of exact solutions","19 pages, 7 figures",,"10.1063/1.2767361",,"cond-mat.soft nlin.PS physics.flu-dyn",,"  We employ granular hydrodynamics to investigate a paradigmatic problem of
+clustering of particles in a freely cooling dilute granular gas. We consider
+large-scale hydrodynamic motions where the viscosity and heat conduction can be
+neglected, and one arrives at the equations of ideal gas dynamics with an
+additional term describing bulk energy losses due to inelastic collisions. We
+employ Lagrangian coordinates and derive a broad family of exact non-stationary
+analytical solutions that depend only on one spatial coordinate. These
+solutions exhibit a new type of singularity, where the gas density blows up in
+a finite time when starting from smooth initial conditions. The density blowups
+signal formation of close-packed clusters of particles. As the density blow-up
+time $t_c$ is approached, the maximum density exhibits a power law $\sim
+(t_c-t)^{-2}$. The velocity gradient blows up as $\sim - (t_c-t)^{-1}$ while
+the velocity itself remains continuous and develops a cusp (rather than a shock
+discontinuity) at the singularity. The gas temperature vanishes at the
+singularity, and the singularity follows the isobaric scenario: the gas
+pressure remains finite and approximately uniform in space and constant in time
+close to the singularity. An additional exact solution shows that the density
+blowup, of the same type, may coexist with an ""ordinary"" shock, at which the
+hydrodynamic fields are discontinuous but finite. We confirm stability of the
+exact solutions with respect to small one-dimensional perturbations by solving
+the ideal hydrodynamic equations numerically. Furthermore, numerical solutions
+show that the local features of the density blowup hold universally,
+independently of details of the initial and boundary conditions.
+","[{""version"":""v1"",""created"":""Sun, 1 Apr 2007 12:54:14 GMT""},{""version"":""v2"",""created"":""Wed, 9 May 2007 07:00:42 GMT""}]","2009-11-13"
+"0704.0085","Partha Mukhopadhyay","Partha Mukhopadhyay","A Universality in PP-Waves","LaTeX file, 43 pages, one reference added, minor changes made","JHEP 0706:061,2007","10.1088/1126-6708/2007/06/061","DAMTP-2007-30","hep-th",,"  We discuss a universality property of any covariant field theory in
+space-time expanded around pp-wave backgrounds. According to this property the
+space-time lagrangian density evaluated on a restricted set of field
+configurations, called universal sector, turns out to be same around all the
+pp-waves, even off-shell, with same transverse space and same profiles for the
+background scalars. In this paper we restrict our discussion to tensorial
+fields only. In the context of bosonic string theory we consider on-shell
+pp-waves and argue that universality requires the existence of a universal
+sector of world-sheet operators whose correlation functions are insensitive to
+the pp-wave nature of the metric and the background gauge flux. Such results
+can also be reproduced using the world-sheet conformal field theory. We also
+study such pp-waves in non-polynomial closed string field theory (CSFT). In
+particular, we argue that for an off-shell pp-wave ansatz with flat transverse
+space and dilaton independent of transverse coordinates the field redefinition
+relating the low energy effective field theory and CSFT with all the massive
+modes integrated out is at most quadratic in fields. Because of this
+simplification it is expected that the off-shell pp-waves can be identified on
+the two sides. Furthermore, given the massless pp-wave field configurations, an
+iterative method for computing the higher massive modes using the CSFT
+equations of motion has been discussed. All our bosonic string theory analyses
+can be generalised to the common Neveu-Schwarz sector of superstrings.
+","[{""version"":""v1"",""created"":""Sun, 1 Apr 2007 12:55:02 GMT""},{""version"":""v2"",""created"":""Mon, 9 Apr 2007 12:06:19 GMT""}]","2009-11-13"
+"0704.0086","Vladislav Vysotsky","Vladislav V. Vysotsky","Clustering in a stochastic model of one-dimensional gas","Published in at http://dx.doi.org/10.1214/07-AAP481 the Annals of
+  Applied Probability (http://www.imstat.org/aap/) by the Institute of
+  Mathematical Statistics (http://www.imstat.org)","Annals of Applied Probability 2008, Vol. 18, No. 3, 1026-1058","10.1214/07-AAP481","IMS-AAP-AAP481","math.PR",,"  We give a quantitative analysis of clustering in a stochastic model of
+one-dimensional gas. At time zero, the gas consists of $n$ identical particles
+that are randomly distributed on the real line and have zero initial speeds.
+Particles begin to move under the forces of mutual attraction. When particles
+collide, they stick together forming a new particle, called cluster, whose mass
+and speed are defined by the laws of conservation. We are interested in the
+asymptotic behavior of $K_n(t)$ as $n\to \infty$, where $K_n(t)$ denotes the
+number of clusters at time $t$ in the system with $n$ initial particles. Our
+main result is a functional limit theorem for $K_n(t)$. Its proof is based on
+the discovered localization property of the aggregation process, which states
+that the behavior of each particle is essentially defined by the motion of
+neighbor particles.
+","[{""version"":""v1"",""created"":""Sun, 1 Apr 2007 13:10:43 GMT""},{""version"":""v2"",""created"":""Tue, 17 Jun 2008 06:56:43 GMT""}]","2008-06-17"
+"0704.0087","Tuyen Truong","Duong Minh Duc and Truong Trung Tuyen","Approximate solutions to the Dirichlet problem for harmonic maps between
+  hyperbolic spaces",,,,,"math.DG",,"  Our main result in this paper is the following: Given $H^m, H^n$ hyperbolic
+spaces of dimensional $m$ and $n$ corresponding, and given a Holder function
+$f=(s^1,...,f^{n-1}):\partial H^m\to \partial H^n$ between geometric boundaries
+of $H^m$ and $H^n$. Then for each $\epsilon >0$ there exists a harmonic map
+$u:H^m\to H^n$ which is continuous up to the boundary (in the sense of
+Euclidean) and $u|_{\partial H^m}=(f^1,...,f^{n-1},\epsilon)$.
+","[{""version"":""v1"",""created"":""Sun, 1 Apr 2007 13:44:50 GMT""},{""version"":""v2"",""created"":""Wed, 23 May 2007 12:49:52 GMT""}]","2007-06-13"
+"0704.0088","Nikolay Tcherniega V.","N.V.Tcherniega","Some new experimental photonic flame effect features","9 pages, 10 figures, accepted for publication in JRLR",,,,"physics.optics",,"  The results of the spectral, energetical and temporal characteristics of
+radiation in the presence of the photonic flame effect are presented.
+Artificial opal posed on Cu plate at the temperature of liquid nitrogen boiling
+point (77 K) being irradiated by nanosecond ruby laser pulse produces long-
+term luminiscence with a duration till ten seconds with a finely structured
+spectrum in the the antistocks part of the spectrum. Analogous visible
+luminescence manifesting time delay appeared in other samples of the artificial
+opals posed on the same plate. In the case of the opal infiltrated with
+different nonlinear liquids the threshold of the luminiscence is reduced and
+the spatial disribution of the bright emmiting area on the opal surface is
+being changed. In the case of the putting the frozen nonlinear liquids on the
+Cu plate long-term blue bright luminiscence took place in the frozen species of
+the liquids. Temporal characteristics of this luminiscence are nearly the same
+as in opal matrixes.
+","[{""version"":""v1"",""created"":""Sun, 1 Apr 2007 14:10:51 GMT""}]","2007-05-23"
+"0704.0089","Igor Grabec","I. Grabec","A general approach to statistical modeling of physical laws:
+  nonparametric regression","17 pages, 8 eps figures, uses revtex4.cls",,,,"physics.data-an physics.gen-ph",,"  Statistical modeling of experimental physical laws is based on the
+probability density function of measured variables. It is expressed by
+experimental data via a kernel estimator. The kernel is determined objectively
+by the scattering of data during calibration of experimental setup. A physical
+law, which relates measured variables, is optimally extracted from experimental
+data by the conditional average estimator. It is derived directly from the
+kernel estimator and corresponds to a general nonparametric regression. The
+proposed method is demonstrated by the modeling of a return map of noisy
+chaotic data. In this example, the nonparametric regression is used to predict
+a future value of chaotic time series from the present one. The mean predictor
+error is used in the definition of predictor quality, while the redundancy is
+expressed by the mean square distance between data points. Both statistics are
+used in a new definition of predictor cost function. From the minimum of the
+predictor cost function, a proper number of data in the model is estimated.
+","[{""version"":""v1"",""created"":""Sun, 1 Apr 2007 14:29:57 GMT""}]","2007-05-23"
+"0704.0090","Lester Ingber","Lester Ingber","Real Options for Project Schedules (ROPS)",,,,"Report 2007:ROPS","cs.CE cond-mat.stat-mech cs.MS cs.NA physics.data-an",,"  Real Options for Project Schedules (ROPS) has three recursive
+sampling/optimization shells. An outer Adaptive Simulated Annealing (ASA)
+optimization shell optimizes parameters of strategic Plans containing multiple
+Projects containing ordered Tasks. A middle shell samples probability
+distributions of durations of Tasks. An inner shell samples probability
+distributions of costs of Tasks. PATHTREE is used to develop options on
+schedules.. Algorithms used for Trading in Risk Dimensions (TRD) are applied to
+develop a relative risk analysis among projects.
+","[{""version"":""v1"",""created"":""Sun, 1 Apr 2007 14:35:40 GMT""}]","2007-05-23"
+"0704.0091","Ashot Minasyan","Ashot Minasyan","Groups with finitely many conjugacy classes and their automorphisms","30 pages, 2 figures. Version 2: corrected several misprints and added
+  new Lemma 6.4","Comm. Math. Helv. 84 (2009), No. 2, pp. 259--296.",,,"math.GR","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  We combine classical methods of combinatorial group theory with the theory of
+small cancellations over relatively hyperbolic groups to construct finitely
+generated torsion-free groups that have only finitely many classes of conjugate
+elements. Moreover, we present several results concerning embeddings into such
+groups.
+  As another application of these techniques, we prove that every countable
+group $C$ can be realized as a group of outer automorphisms of a group $N$,
+where $N$ is a finitely generated group having Kazhdan's property (T) and
+containing exactly two conjugacy classes.
+","[{""version"":""v1"",""created"":""Sun, 1 Apr 2007 15:17:36 GMT""},{""version"":""v2"",""created"":""Mon, 18 Aug 2008 12:20:58 GMT""}]","2009-07-07"
